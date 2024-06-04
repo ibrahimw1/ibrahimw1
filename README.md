@@ -1,4 +1,4 @@
-Hi 👋 My name is Ibrahim Wani
+Ibrahim Wani 👋
 =============================
 
 ML Researcher and Software Engineering Student @ University of Calgary
